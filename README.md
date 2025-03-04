@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there! I'm Alceu Ramos 🤙🤙
 
-<!--
-**alceuramos/alceuramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 💼 Current Work
+- 🖥️ Tech Lead & Software Engineer at Dynamox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🎓 Education
+- 🎓 Bachelor's in Computer Science from UFSC
+- 📚 Postgraduate Degree in Software Architecture at FIAP
+
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=google-cloud)
+
+
+### 🔭 Current Focus
+- Backend Architecture
+
+
+### 📫 Let's Connect!
+- LinkedIn: [Alceu Ramos](https://www.linkedin.com/in/alceuramos)
+- Email: alceuramoos@gmail.com
