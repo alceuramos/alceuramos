@@ -2,7 +2,7 @@
 
 
 ### 💼 Current Work
-- 🖥️ Tech Lead & Software Engineer at Dynamox
+- 🖥️ Software Engineer at Nexxera
 
 
 ### 🎓 Education
